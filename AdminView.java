@@ -10,7 +10,7 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
-import twitterdriver.Visitor.LastUpdatedIDVisitor;
+import twitterdriver.Visitor.UpdatedVisitor;
 import twitterdriver.Visitor.PositiveVisitor;
 import twitterdriver.Visitor.TotalGroupVisitor;
 import twitterdriver.Visitor.TotalMessageVisitor;
