@@ -17,7 +17,7 @@ public class TwitterDriver extends Application {
         
         Scene scene=new Scene(adminView, 570 400);
         primaryStage.setScene(scene);
-        primaryStage.setTitle("Admin Control Panel");
+        primaryStage.setTitle("Admin Controls");
         primaryStage.show();
     }
     
